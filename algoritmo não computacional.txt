@@ -1,0 +1,37 @@
+Algoritmo: "Tomar banho"
+
+inicio
+1º pegar toalha no suporte de toalha
+2º se for usar roupa
+3º pegar roupa no guarda roupa
+4º ir até o banheiro
+5º colocar roupa no suporte de roupas
+6º se estiver de roupa
+7º tirar roupa
+8º ligar o chuveiro
+9º pegar sabonete
+10º se ensaboar
+11º devolver sabonete
+12º pegar pote de shampoo
+13º passar shampoo no cabelo
+14º devolver pote de shampoo
+15º massagear o cabelo com o shampoo
+16º deixar a agua escorrer o shampoo da cabeça e o sabonete do corpo
+17º pegar pote de condicionador
+18º passar condicionador no cabelo
+19º devolver pote de condicionador
+20º massagear o cabelo com condicionador
+21º deixar a agua escorrer o condicionador do cabelo
+22º pegar escova de dentes e pacote de pasta de dentes
+23º passar pasta de dentes na escova de dentes
+24º devolver pacote de pasta de dente
+25º escovar os dentes
+26º passar agua para limpar a boca
+27º limpar a escova de dentes
+28º guardar escova de dentes
+29º desligar chuveiro
+30º pegar toalha
+31º se secar com a toalha
+32º colocar roupa
+
+fimalgoritmo
